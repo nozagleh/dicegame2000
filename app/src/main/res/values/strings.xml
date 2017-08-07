@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiceGame2000</string>
+    <string name="btn_menu_play">Play!</string>
+    <string name="btn_menu_scores">Highscores</string>
+    <string name="btn_submit_score">Submit scores</string>
+    <string name="btn_roll">Roll!</string>
+    <string name="txt_score">Score</string>
+    <string name="btn_new_round">New Round</string>
+    <string name="btn_go_to_score">End Game</string>
+    <string name="title_activity_register_score">RegisterScore</string>
+
+    <string name="congratulations">Congratulations!</string>
+</resources>
